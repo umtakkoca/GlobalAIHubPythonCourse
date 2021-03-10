@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 08.09.2021  
+**Course Date:** 08.03.2021  
 **Name:** Umut Can  
 **Surname:** Akkoca  
 **Email:** umtcanakkoca@gmail.com  
